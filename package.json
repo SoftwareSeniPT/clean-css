@@ -1,0 +1,14 @@
+{
+  "name": "uncsss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Rudi Wahyudi <diruuu@yahoo.com> (http://twitter.com/diruuu)",
+  "license": "ISC",
+  "dependencies": {
+    "uncss": "^0.14.1"
+  }
+}
